@@ -9,4 +9,4 @@ This repository offers curated medical datasets for AI/ML research, ensuring eas
 | PhysioNet           | Resource for complex physiological signals.              | [PhysioNet](https://physionet.org/)                |
 | Medical Decathlon   | A collection of medical imaging datasets for training and evaluation. | [Medical Decathlon](http://medicaldecathlon.com/) |
 
-We appreciate your contributions and look forward to building an amazing resource together!
+Your contributions are invaluable, and together, we can build a healthier future through innovation and excellence in medical AI/ML!

@@ -43,25 +43,22 @@ This repository offers curated medical datasets for AI/ML research, ensuring eas
 ### Medical Knowledge and Question Answering Datasets
 | Title                        | Description                                                   | Link                                                        |
 |------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
-| MedQA (USMLE)                | General medical knowledge in US medical licensing exam.       | [MedQA](https://example.com)                                |
-| PubMedQA                     | Closed-domain question answering given PubMed abstract.       | [PubMedQA](https://example.com)                             |
-| MedMCQA                      | General medical knowledge in Indian medical entrance exams.   | [MedMCQA](https://example.com)                              |
-| MMLU-Clinical knowledge      | Clinical knowledge multiple-choice questions.                 | [MMLU-Clinical](https://example.com)                        |
-| MMLU Medical genetics        | Medical genetics multiple-choice questions.                   | [MMLU-Genetics](https://example.com)                        |
-| MMLU-Anatomy                 | Anatomy multiple-choice questions.                            | [MMLU-Anatomy](https://example.com)                         |
-| MMLU-Professional medicine   | Professional medicine multiple-choice questions.              | [MMLU-Professional](https://example.com)                    |
-| MMLU-College biology         | College biology multiple-choice questions.                    | [MMLU-Biology](https://example.com)                         |
-| MMLU-College medicine        | College medicine multiple-choice questions.                   | [MMLU-College](https://example.com)                         |
-
-### Long-form Question Evaluation Datasets
-| Title                        | Description                                                   | Link                                                        |
-|------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
-| MultiMedQA (140)             | Sample from HealthSearchQA, LiveQA, MedicationQA.             | [MultiMedQA 140](https://example.com)                       |
-| MultiMedQA (1066)            | Extended sample from HealthSearchQA, LiveQA, MedicationQA.    | [MultiMedQA 1066](https://example.com)                      |
-| Adversarial (General)        | General adversarial dataset.                                  | [Adversarial General](https://example.com)                  |
-| Adversarial (Health equity)  | Health equity adversarial dataset.                            | [Adversarial Health Equity](https://example.com)            |
+| MedQA (USMLE)                | General medical knowledge in US medical licensing exam.       | [MedQA](https://github.com/jind11/MedQA)                                |
+| PubMedQA                     | Closed-domain question answering given PubMed abstract.       | [PubMedQA](https://pubmedqa.github.io/)                             |
+| MedMCQA                      | General medical knowledge in Indian medical entrance exams.   | [MedMCQA](https://medmcqa.github.io/)                              |
+| MedRedQA                      | English consumer Question Answering (QA) dataset containing 51,000 pairs of consumer questions and their corresponding expert answers. | [MedRedQA](https://data.csiro.au/collection/csiro:62454)                              |
+| MultiMedQA (140)             | Sample from HealthSearchQA, LiveQA, MedicationQA.             | [MultiMedQA 140](https://huggingface.co/datasets/openlifescienceai/multimedqa)                       |
+| MMLU-Clinical knowledge      | Clinical knowledge multiple-choice questions.                 | [MMLU-Clinical](https://huggingface.co/datasets/openlifescienceai/mmlu_clinical_knowledge)                        |
+| MMLU Medical genetics        | Medical genetics multiple-choice questions.                   | [MMLU-Genetics](https://huggingface.co/collections/openlifescienceai/multimedqa-66098a5b280539974cefe485)                        |
+| MMLU-Anatomy                 | Anatomy multiple-choice questions.                            | [MMLU-Anatomy](https://huggingface.co/collections/openlifescienceai/multimedqa-66098a5b280539974cefe485)                         |
+| MMLU-Professional medicine   | Professional medicine multiple-choice questions.              | [MMLU-Professional](https://huggingface.co/collections/openlifescienceai/multimedqa-66098a5b280539974cefe485)                    |
+| MMLU-College biology         | College biology multiple-choice questions.                    | [MMLU-Biology](https://huggingface.co/collections/openlifescienceai/multimedqa-66098a5b280539974cefe485)                         |
+| MMLU-College medicine        | College medicine multiple-choice questions.                   | [MMLU-College](https://huggingface.co/collections/openlifescienceai/multimedqa-66098a5b280539974cefe485)                         |
 
 
+## References:
+1. [Huggin Face Datasets](https://huggingface.co/datasets)
+2. [Kaggle Datasets](https://www.kaggle.com/datasets)
 
 ## Getting Help
 If you need help or have any questions, view [contributing guide](https://github.com/GlobalHealthAI/ModelLibrary/blob/main/CONTRIBUTING.md) or feel free to reach out by opening an issue or joining our [Discord Community](https://discord.gg/KXG8V5ZSpy).

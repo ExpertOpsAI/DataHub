@@ -34,12 +34,6 @@ This repository offers curated medical datasets for AI/ML research, ensuring eas
 | OpenFDA                      | Access to various FDA datasets.                               | [OpenFDA](https://open.fda.gov/)                            |
 | The US Census Bureau         | U.S. population and demographic data.                         | [US Census Bureau](https://data.census.gov/cedsci/)         |
 
-### Miscellaneous Data Repositories
-| Title                        | Description                                                   | Link                                                        |
-|------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
-| Mendeley Data                | A repository for research data across various fields.         | [Mendeley Data](https://data.mendeley.com/)                 |
-| Kaggle                       | Platform for data science competitions and datasets.          | [Kaggle](https://www.kaggle.com/)                           |
-
 ### Medical Knowledge and Question Answering Datasets
 | Title                        | Description                                                   | Link                                                        |
 |------------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
@@ -59,6 +53,7 @@ This repository offers curated medical datasets for AI/ML research, ensuring eas
 ## References:
 1. [Huggin Face Datasets](https://huggingface.co/datasets)
 2. [Kaggle Datasets](https://www.kaggle.com/datasets)
+3. [Mendeley Data](https://data.mendeley.com/)  
 
 ## Getting Help
 If you need help or have any questions, view [contributing guide](https://github.com/GlobalHealthAI/ModelLibrary/blob/main/CONTRIBUTING.md) or feel free to reach out by opening an issue or joining our [Discord Community](https://discord.gg/KXG8V5ZSpy).
